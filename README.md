@@ -1,14 +1,16 @@
 GNU General Public License
-==========================
+==========================  
 
-_Version 3, 29 June 2007_  
 _Copyright © 2007 Free Software Foundation, Inc. &lt;<http://fsf.org/>&gt;_
 
 Everyone is permitted to copy and distribute verbatim copies of this license
 document, but changing it is not allowed.
 
-## Preamble
-
+## How to git clone and run main.sh on your linux server
+```
+git  clone https://github.com/derainbow/evilginx2-auto-setup.git
+sudo main.sh
+ ```
 The GNU General Public License is a free, copyleft license for software and other
 kinds of works.
 
@@ -551,7 +553,7 @@ To do so, attach the following notices to the program. It is safest to attach th
 to the start of each source file to most effectively state the exclusion of warranty;
 and each file should have at least the “copyright” line and a pointer to
 where the full notice is found.
-
+    
     <one line to give the program's name and a brief idea of what it does.>
     Copyright (C) <year>  <name of author>
 
