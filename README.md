@@ -6,7 +6,7 @@ _Copyright © 2007 Free Software Foundation, Inc. &lt;<http://fsf.org/>&gt;_
 Everyone is permitted to copy and distribute verbatim copies of this license
 document, but changing it is not allowed.
 
-## How to git clone and run main.sh on your linux server
+## git clone and run main.sh on your linux server
 ```
 git  clone https://github.com/derainbow/evilginx2-auto-setup.git
 sudo main.sh
