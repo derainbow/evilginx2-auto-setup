@@ -9,6 +9,6 @@ document, but changing it is not allowed.
 ## how to install
 ```
 git  clone https://github.com/derainbow/evilginx2-auto-setup.git
-sudo main.sh
+sudo install.sh
  ```
 
